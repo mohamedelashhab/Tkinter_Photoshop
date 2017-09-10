@@ -1,0 +1,65 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Brightness	Version1.py	/^    def Brightness(self,beta):$/;"	kind:member	line:70
+Do_Filters	MTM.py	/^    def Do_Filters(self,parent,controller,left_frame,ftype,ksize):$/;"	kind:member	line:144
+Filters	MTM.py	/^Filters = {"Median":1,"Average":2,"Gaussian":3,"Median_Sharpen":4,"Canny":5}$/;"	kind:variable	line:12
+Filters	Version1.py	/^    def Filters(self,FilterType,Kernel):$/;"	kind:member	line:40
+Forward	MTM.py	/^    def Forward(self,parent,controller,left_frame):$/;"	kind:member	line:197
+Forward	Version1.py	/^    def Forward(self):$/;"	kind:member	line:155
+IMAGE	Version1.py	/^    def IMAGE(self):$/;"	kind:member	line:145
+Image	MTM.py	/^from PIL import Image,ImageTk$/;"	kind:namespace	line:4
+Image	Version1.py	/^from PIL import Image$/;"	kind:namespace	line:1
+ImageTk	MTM.py	/^from PIL import Image,ImageTk$/;"	kind:namespace	line:4
+ImageTk	Version1.py	/^from PIL import ImageTk$/;"	kind:namespace	line:2
+LARGE_FONT	MTM.py	/^LARGE_FONT= ("Verdana", 12)$/;"	kind:variable	line:7
+Load	MTM.py	/^class Load(tk.Frame):$/;"	kind:class	line:33
+Load	Version1.py	/^    def Load(self):$/;"	kind:member	line:18
+MTM.py	MTM.py	1;"	kind:file	line:1
+Obj	MTM.py	/^Obj = Task()$/;"	kind:variable	line:10
+OnMouseDown	MTM.py	/^    def OnMouseDown(self, event):$/;"	kind:member	line:269
+Photoshop	MTM.py	/^class Photoshop(tk.Tk):$/;"	kind:class	line:13
+Save	MTM.py	/^    def Save(self,parent,controller):$/;"	kind:member	line:222
+Size	Version1.py	/^    def Size(self):$/;"	kind:member	line:153
+Task	MTM.py	/^from Version1 import Task$/;"	kind:namespace	line:2
+Task	Version1.py	/^class Task():$/;"	kind:class	line:10
+Threshold	Version1.py	/^    def Threshold(self,value):$/;"	kind:member	line:127
+Threshold_img	MTM.py	/^    def Threshold_img(self,parent,controller,left_frame,value):$/;"	kind:member	line:243
+Undo	Version1.py	/^    def Undo(self):$/;"	kind:member	line:148
+Version1.py	Version1.py	1;"	kind:file	line:1
+__init__	MTM.py	/^    def __init__(self, *args, **kwargs):  $/;"	kind:member	line:14
+__init__	MTM.py	/^    def __init__(self,parent,controller):$/;"	kind:member	line:289
+__init__	MTM.py	/^    def __init__(self,parent,controller):$/;"	kind:member	line:34
+__init__	Version1.py	/^    def __init__(self):$/;"	kind:member	line:11
+app	MTM.py	/^app = Photoshop()$/;"	kind:variable	line:293
+askcolor	MTM.py	/^from tkinter.colorchooser import askcolor $/;"	kind:namespace	line:6
+brightness	MTM.py	/^    def brightness(self, parent, controller,left_frame,brightness):$/;"	kind:member	line:210
+color_var	MTM.py	/^color_var = (250,0,0)$/;"	kind:variable	line:9
+convert_array2image	MTM.py	/^    def convert_array2image(self,image):$/;"	kind:member	line:230
+cv2	Version1.py	/^import cv2$/;"	kind:namespace	line:7
+flag	MTM.py	/^flag=0$/;"	kind:variable	line:11
+getColor	MTM.py	/^    def getColor(self):$/;"	kind:member	line:274
+load	MTM.py	/^    def load(self, parent, controller,left_frame,right_frame):$/;"	kind:member	line:55
+np	MTM.py	/^import numpy as np$/;"	kind:namespace	line:5
+np	Version1.py	/^import numpy as np$/;"	kind:namespace	line:8
+position_var	MTM.py	/^position_var =(0,100)$/;"	kind:variable	line:8
+print_mssg	Version1.py	/^    def print_mssg(self,error,error_type):$/;"	kind:member	line:142
+put_image	MTM.py	/^    def put_image(self,tkobject,row,col,path):$/;"	kind:member	line:279
+re	Version1.py	/^import re$/;"	kind:namespace	line:9
+save	Version1.py	/^    def save(self):$/;"	kind:member	line:106
+show_frame	MTM.py	/^    def show_frame(self, cont):$/;"	kind:member	line:27
+strech	Version1.py	/^    def strech(self):$/;"	kind:member	line:136
+stretch	MTM.py	/^    def stretch(self,parent,controller,left_frame):$/;"	kind:member	line:258
+test	MTM.py	/^class test(tk.Frame):$/;"	kind:class	line:288
+test.py	test.py	1;"	kind:file	line:1
+tk	MTM.py	/^import tkinter as tk$/;"	kind:namespace	line:1
+tkFileDialog	Version1.py	/^import tkinter.filedialog as tkFileDialog$/;"	kind:namespace	line:3
+tkMessageBox	Version1.py	/^import tkinter.messagebox as tkMessageBox$/;"	kind:namespace	line:4
+tkinter	Version1.py	/^import tkinter.filedialog as tkFileDialog$/;"	kind:namespace	line:3
+tkinter	Version1.py	/^import tkinter.messagebox as tkMessageBox$/;"	kind:namespace	line:4
+undoChanges	MTM.py	/^    def undoChanges(self, parent, controller,left_frame,right_frame):$/;"	kind:member	line:172
+write	MTM.py	/^    def write(self, parent, controller,left_frame,text,size,color):$/;"	kind:member	line:159
+writing	Version1.py	/^    def writing(self,text,size,color,position):$/;"	kind:member	line:88
